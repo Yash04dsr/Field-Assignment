@@ -1,0 +1,92 @@
+Survey Analysis — Sunder Nursery CVM/TCM Study
+Total respondents: 45
+Date: Friday, 10 April 2026, 17:30–19:30
+============================================================
+
+── Age Distribution ──
+  Under 18: 4 (8.9%)
+  18–35: 20 (44.4%)
+  36–60: 12 (26.7%)
+  60+: 9 (20.0%)
+
+── Income Distribution ──
+  Student: 16 (35.6%)
+  Under ₹50,000: 5 (11.1%)
+  ₹50,000–₹1,00,000: 10 (22.2%)
+  Above ₹1,00,000: 11 (24.4%)
+  Other/N.A.: 3 (6.7%)
+
+── Aspects Valued ──
+  Scenic Beauty: 38 (84.4%)
+  Heritage Monuments: 25 (55.6%)
+  Plants & Birds: 21 (46.7%)
+  Quietude / Escape: 18 (40.0%)
+  Future Generations: 15 (33.3%)
+
+── WTP ──
+  Yes: 30 (66.7%)
+  No: 15 (33.3%)
+
+── WTP Amount ──
+  Mean WTP (among willing): ₹40.0
+  Median WTP (among willing): ₹20
+  Overall Mean WTP (incl. zeros): ₹26.7
+
+── Protest Bids ──
+  Govt. Should Pay: 5 (33%)
+  Not Worth It: 6 (40%)
+  Cannot Afford: 4 (27%)
+
+── Bequest Value ──
+  Very important: 31 (68.9%)
+  Somewhat important: 12 (26.7%)
+  Not important: 2 (4.4%)
+
+── Existence Value ──
+  Yes: 37 (82.2%)
+  No: 8 (17.8%)
+
+── Ecological Condition ──
+  Excellent: 17 (37.8%)
+  Good: 22 (48.9%)
+  Average: 6 (13.3%)
+  Poor: 0 (0.0%)
+
+── Travel Cost ──
+  Mean one-way: ₹107.7
+  Mean round-trip: ₹215.3
+  ₹0–₹20: 4 (8.9%)
+  ₹21–₹50: 8 (17.8%)
+  ₹51–₹100: 15 (33.3%)
+  ₹101–₹200: 11 (24.4%)
+  More than ₹200: 7 (15.6%)
+
+── Sole Destination ──
+  Only Sunder Nursery: 21 (46.7%)
+  Multi-destination: 24 (53.3%)
+
+── Income vs WTP ──
+  Student: 13/16 (81% Yes)
+  <₹50K: 2/5 (40% Yes)
+  ₹50K–1L: 7/10 (70% Yes)
+  >₹1L: 7/11 (64% Yes)
+
+── Age vs WTP ──
+  Under 18: 4/4 (100% Yes)
+  18–35: 14/20 (70% Yes)
+  36–60: 8/12 (67% Yes)
+  60+: 4/9 (44% Yes)
+
+── Consumer Surplus (TCM) ──
+  Max observed travel cost: ₹250
+  Total sample CS: ₹6405
+  CS per visitor: ₹142.3
+  Annual CS (est. 1,500,000 visitors): ₹213,500,000
+  Annual CS: ₹21.35 crore
+
+── Total Economic Value ──
+  Use Value (TCM CS): ₹21.35 crore/year
+  CVM Direct WTP: ₹4.00 crore/year
+  Non-use multiplier: 1.59x
+  CVM with non-use: ₹6.36 crore/year
+  TOTAL: ₹27.71 crore/year

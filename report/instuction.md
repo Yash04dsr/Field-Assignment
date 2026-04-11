@@ -1,0 +1,8 @@
+Now, the task is this:
+Me and my team is enrolled in a course RDL725. We have an assignement in which we needed to visit a place called Sunder Nursery and ecologically evaluate that place. We visited there and had some people fill a google form the responses of which are saved in the excel sheel survey_responses_final.csv about the place. So, what you need to do is generate a report for ecological evaluation of that place based on the form responses of the users. The method for ecological evaluation we chose is Contingent Valuation Method. Decide which questions of the form were relevant. Dont use too much complicated language for the report, but not too simple. For the report, you have to write latex in report in Presentation folder in presentation.tex which is currently empty. Then i will compile it into a pdf myself. Mention the course name RDL725-Ecological Perspective 
+of Growth and Development, The College name is IIT Delhi and the logo is present in the Images folder with name "iitd_logo.jpeg" and sunder nursery logo is "sunder_nursery_logo.png". Add both these logos also in the report. Also, add the names of us group numbers in the report too:
+Prem Bhugra (2022CH71038), Sakhare Yash Balram (2022CH71496), Ninad Narsing Gawade (2022CH71493), Nitin Verma (2022CH11031).
+Also, add the professor and TA names:
+Course Coordinator: Prof Vivek Kumar
+TAs: Nandita Pawar, Rahul Dwivedi
+Also, add all the other images present in the Images folder within the report too.

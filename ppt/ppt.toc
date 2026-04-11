@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Site Description}{4}{0}{2}
+\beamer@sectionintoc {3}{Theoretical Framework}{5}{0}{3}
+\beamer@sectionintoc {4}{Methodology}{6}{0}{4}
+\beamer@sectionintoc {5}{Results}{7}{0}{5}
+\beamer@sectionintoc {6}{Total Economic Value}{16}{0}{6}
+\beamer@sectionintoc {7}{Discussion \& Conclusion}{17}{0}{7}

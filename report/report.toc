@@ -1,0 +1,41 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Site Description and Ecological Background}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}History and Restoration}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Ecological Features}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Biodiversity and Green Cover}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Theoretical Framework}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Total Economic Value}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Contingent Valuation Method (CVM)}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Travel Cost Method (TCM)}{6}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Methodology}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Survey Design}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Data Collection}{7}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Results and Analysis}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Respondent Demographics}{8}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Aspects Most Valued}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}CVM Analysis: Willingness to Pay}{10}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Overall WTP}{10}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}WTP Amount Distribution}{10}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}WTP Cumulative Distribution}{11}{subsubsection.5.3.3}%
+\contentsline {subsubsection}{\numberline {5.3.4}Protest Bid Analysis}{11}{subsubsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.4}Non-Use Value Analysis}{12}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Bequest Value}{12}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Existence Value}{13}{subsubsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.5}Ecological Condition Rating}{14}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}TCM Analysis: Travel Cost and Consumer Surplus}{14}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Transport Mode and Travel Cost}{14}{subsubsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {5.6.2}Travel Time and Trip Purpose}{15}{subsubsection.5.6.2}%
+\contentsline {subsubsection}{\numberline {5.6.3}Demand Curve and Consumer Surplus}{15}{subsubsection.5.6.3}%
+\contentsline {subsection}{\numberline {5.7}Cross-Tabulations}{16}{subsection.5.7}%
+\contentsline {subsubsection}{\numberline {5.7.1}Income vs.\ WTP}{16}{subsubsection.5.7.1}%
+\contentsline {subsubsection}{\numberline {5.7.2}Age vs.\ WTP}{17}{subsubsection.5.7.2}%
+\contentsline {subsubsection}{\numberline {5.7.3}WTP Amount by Income Group}{17}{subsubsection.5.7.3}%
+\contentsline {subsubsection}{\numberline {5.7.4}Ecological Rating vs.\ WTP}{18}{subsubsection.5.7.4}%
+\contentsline {section}{\numberline {6}Total Economic Value Estimation}{18}{section.6}%
+\contentsline {section}{\numberline {7}Discussion}{19}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Comparison with Literature}{19}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Ecological Evaluation}{20}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Policy Implications}{20}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Limitations and Potential Biases}{21}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Conclusion}{21}{section.8}%
+\contentsline {section}{References}{22}{figure.caption.28}%
