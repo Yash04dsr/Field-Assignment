@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.16)  11 APR 2026 00:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.16)  13 APR 2026 05:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -841,97 +841,27 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 raries/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
-\c@tracingmulticols=\count359
-\mult@box=\box84
-\multicol@leftmargin=\dimen323
-\c@unbalance=\count360
-\c@collectmore=\count361
-\doublecol@number=\count362
-\multicoltolerance=\count363
-\multicolpretolerance=\count364
-\full@width=\dimen324
-\page@free=\dimen325
-\premulticols=\dimen326
-\postmulticols=\dimen327
-\multicolsep=\skip69
-\multicolbaselineskip=\skip70
-\partial@page=\box85
-\last@line=\box86
-\mc@boxedresult=\box87
-\maxbalancingoverflow=\dimen328
-\mult@rightbox=\box88
-\mult@grightbox=\box89
-\mult@firstbox=\box90
-\mult@gfirstbox=\box91
-\@tempa=\box92
-\@tempa=\box93
-\@tempa=\box94
-\@tempa=\box95
-\@tempa=\box96
-\@tempa=\box97
-\@tempa=\box98
-\@tempa=\box99
-\@tempa=\box100
-\@tempa=\box101
-\@tempa=\box102
-\@tempa=\box103
-\@tempa=\box104
-\@tempa=\box105
-\@tempa=\box106
-\@tempa=\box107
-\@tempa=\box108
-\@tempa=\box109
-\@tempa=\box110
-\@tempa=\box111
-\@tempa=\box112
-\@tempa=\box113
-\@tempa=\box114
-\@tempa=\box115
-\@tempa=\box116
-\@tempa=\box117
-\@tempa=\box118
-\@tempa=\box119
-\@tempa=\box120
-\@tempa=\box121
-\@tempa=\box122
-\@tempa=\box123
-\@tempa=\box124
-\@tempa=\box125
-\@tempa=\box126
-\@tempa=\box127
-\c@minrows=\count365
-\c@columnbadness=\count366
-\c@finalcolumnbadness=\count367
-\last@try=\dimen329
-\multicolovershoot=\dimen330
-\multicolundershoot=\dimen331
-\mult@nat@firstbox=\box128
-\colbreak@box=\box129
-\mc@col@check@num=\count368
-)
 (/usr/local/texlive/2025basic/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (/usr/local/texlive/2025basic/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen332
-\captionmargin=\dimen333
-\caption@leftmargin=\dimen334
-\caption@rightmargin=\dimen335
-\caption@width=\dimen336
-\caption@indent=\dimen337
-\caption@parindent=\dimen338
-\caption@hangindent=\dimen339
+\caption@tempdima=\dimen323
+\captionmargin=\dimen324
+\caption@leftmargin=\dimen325
+\caption@rightmargin=\dimen326
+\caption@width=\dimen327
+\caption@indent=\dimen328
+\caption@parindent=\dimen329
+\caption@hangindent=\dimen330
 Package caption Info: beamer document class detected.
 
 (/usr/local/texlive/2025basic/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to th
 e beamer document classes (AR)
 ))
-\c@caption@flags=\count369
-\c@continuedfloat=\count370
+\c@caption@flags=\count359
+\c@continuedfloat=\count360
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
@@ -939,29 +869,29 @@ Package caption Info: Hyperref support is turned off
 (/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
 ef
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count371
-\l__pdf_internal_box=\box130
+\l__color_backend_stack_int=\count361
+\l__pdf_internal_box=\box84
 ) (./ppt.aux)
 \openout1 = `ppt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -999,16 +929,16 @@ LaTeX Font Info:    ... okay on input line 87.
 
 (/usr/local/texlive/2025basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count372
-\scratchdimen=\dimen340
-\scratchbox=\box131
-\nofMPsegments=\count373
-\nofMParguments=\count374
+\scratchcounter=\count362
+\scratchdimen=\dimen331
+\scratchbox=\box85
+\nofMPsegments=\count363
+\nofMParguments=\count364
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count375
-\MPscratchDim=\dimen341
-\MPnumerator=\count376
-\makeMPintoPDFobject=\count377
+\MPscratchCnt=\count365
+\MPscratchDim=\dimen332
+\MPnumerator=\count366
+\makeMPintoPDFobject=\count367
 \everyMPtoPDFconversion=\toks51
 )
 (/usr/local/texlive/2025basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
@@ -1021,53 +951,53 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 87.
+Package hyperref Info: Link coloring OFF on input line 56.
  (./ppt.out) (./ppt.out)
 \@outlinefile=\write5
 \openout5 = `ppt.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 87.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 87.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 56.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 87.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 87.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 87.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 87.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 87.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 56.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 87.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 87.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 87.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 56.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 87.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 87.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 87.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 56.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 87.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 87.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 56.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 87.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 56.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 87.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 87.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 87.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 87.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 87.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 87.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 56.
 
 (/usr/local/texlive/2025basic/texmf-dist/tex/latex/translator/translator-basic-
 dictionary-English.dict
@@ -1096,224 +1026,186 @@ Dictionary: translator-theorem-dictionary, Language: English
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./ppt.nav)
+<../Images/iitd_logo copy.png, id=15, 1204.5pt x 1204.5pt>
+File: ../Images/iitd_logo copy.png Graphic file (type png)
+<use ../Images/iitd_logo copy.png>
+Package pdftex.def Info: ../Images/iitd_logo copy.png  used on input line 90.
+(pdftex.def)             Requested size: 62.58105pt x 62.59596pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 90.
 
-[1
 
-{/usr/local/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-[2
-
-]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 189
-.
- (/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 189
-.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 90.
+
 
 (/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
+[1
+
+{/usr/local/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <..
+/Images/iitd_logo copy.png>]
+
+[2
+
+]
+
 [3
 
 ]
-<../Images/1.jpeg, id=79, 1606.0pt x 722.7pt>
+<../Images/1.jpeg, id=54, 1606.0pt x 722.7pt>
 File: ../Images/1.jpeg Graphic file (type jpg)
 <use ../Images/1.jpeg>
-Package pdftex.def Info: ../Images/1.jpeg  used on input line 232.
-(pdftex.def)             Requested size: 194.32906pt x 91.04303pt.
-<../Images/4.jpeg, id=80, 578.16pt x 1284.8pt>
-File: ../Images/4.jpeg Graphic file (type jpg)
-<use ../Images/4.jpeg>
-Package pdftex.def Info: ../Images/4.jpeg  used on input line 232.
-(pdftex.def)             Requested size: 194.33101pt x 91.04303pt.
-
-Overfull \vbox (46.3387pt too high) detected at line 232
- []
-
+Package pdftex.def Info: ../Images/1.jpeg  used on input line 171.
+(pdftex.def)             Requested size: 200.65149pt x 79.66264pt.
+<../Images/12.jpeg, id=55, 803.0pt x 1071.00125pt>
+File: ../Images/12.jpeg Graphic file (type jpg)
+<use ../Images/12.jpeg>
+Package pdftex.def Info: ../Images/12.jpeg  used on input line 171.
+(pdftex.def)             Requested size: 200.65149pt x 79.66794pt.
 
 
 [4
 
- <../Images/1.jpeg> <../Images/4.jpeg>]
+ <../Images/1.jpeg> <../Images/12.jpeg>]
 
 [5
 
 ]
-<../Images/Review 6.jpeg, id=117, 1284.8pt x 578.16pt>
-File: ../Images/Review 6.jpeg Graphic file (type jpg)
-<use ../Images/Review 6.jpeg>
-Package pdftex.def Info: ../Images/Review 6.jpeg  used on input line 311.
-(pdftex.def)             Requested size: 194.33633pt x 87.44365pt.
-<../Images/Review 7.jpeg, id=118, 1284.8pt x 578.16pt>
-File: ../Images/Review 7.jpeg Graphic file (type jpg)
-<use ../Images/Review 7.jpeg>
-Package pdftex.def Info: ../Images/Review 7.jpeg  used on input line 311.
-(pdftex.def)             Requested size: 194.33633pt x 87.44365pt.
-
-Overfull \vbox (39.13994pt too high) detected at line 311
+Underfull \hbox (badness 3049) in paragraph at lines 233--233
+[]|\OT1/cmss/bx/n/9 Non-use val-ues \OT1/cmss/m/n/9 (be-
  []
 
 
 
 [6
 
- <../Images/Review 6.jpeg> <../Images/Review 7.jpeg>]
-<../report/figures/01_age_distribution.png, id=125, 325.57635pt x 308.23155pt>
-File: ../report/figures/01_age_distribution.png Graphic file (type png)
-<use ../report/figures/01_age_distribution.png>
-Package pdftex.def Info: ../report/figures/01_age_distribution.png  used on inp
-ut line 338.
-(pdftex.def)             Requested size: 208.91528pt x 197.78957pt.
-<../report/figures/02_income_distribution.png, id=127, 520.344pt x 284.7438pt>
-File: ../report/figures/02_income_distribution.png Graphic file (type png)
-<use ../report/figures/02_income_distribution.png>
-Package pdftex.def Info: ../report/figures/02_income_distribution.png  used on 
-input line 338.
-(pdftex.def)             Requested size: 208.91528pt x 114.32564pt.
-
-Overfull \vbox (68.81473pt too high) detected at line 338
- []
-
-
+]
 
 [7
 
- <../report/figures/01_age_distribution.png> <../report/figures/02_income_distr
-ibution.png>]
-<../report/figures/04_aspects_valued.png, id=136, 557.2017pt x 312.56775pt>
-File: ../report/figures/04_aspects_valued.png Graphic file (type png)
-<use ../report/figures/04_aspects_valued.png>
-Package pdftex.def Info: ../report/figures/04_aspects_valued.png  used on input
- line 365.
-(pdftex.def)             Requested size: 239.38554pt x 134.28703pt.
+]
+<../Images/qr.png, id=151, 3011.25pt x 3011.25pt>
+File: ../Images/qr.png Graphic file (type png)
+<use ../Images/qr.png>
+Package pdftex.def Info: ../Images/qr.png  used on input line 321.
+(pdftex.def)             Requested size: 170.6965pt x 170.71652pt.
 
 
 [8
 
- <../report/figures/04_aspects_valued.png>]
-<../report/figures/05_wtp_pie.png, id=143, 366.04755pt x 308.23155pt>
-File: ../report/figures/05_wtp_pie.png Graphic file (type png)
-<use ../report/figures/05_wtp_pie.png>
-Package pdftex.def Info: ../report/figures/05_wtp_pie.png  used on input line 4
-07.
-(pdftex.def)             Requested size: 166.48091pt x 140.18913pt.
-<../report/figures/06_wtp_amount_distribution.png, id=144, 413.74574pt x 312.56
-775pt>
-File: ../report/figures/06_wtp_amount_distribution.png Graphic file (type png)
-<use ../report/figures/06_wtp_amount_distribution.png>
-Package pdftex.def Info: ../report/figures/06_wtp_amount_distribution.png  used
- on input line 407.
-(pdftex.def)             Requested size: 226.32875pt x 170.98274pt.
+ <../Images/qr.png>]
+<../report/figures/01_age_distribution.png, id=171, 325.57635pt x 308.23155pt>
+File: ../report/figures/01_age_distribution.png Graphic file (type png)
+<use ../report/figures/01_age_distribution.png>
+Package pdftex.def Info: ../report/figures/01_age_distribution.png  used on inp
+ut line 343.
+(pdftex.def)             Requested size: 220.09167pt x 208.37183pt.
+<../report/figures/02_income_distribution.png, id=172, 520.344pt x 284.7438pt>
+File: ../report/figures/02_income_distribution.png Graphic file (type png)
+<use ../report/figures/02_income_distribution.png>
+Package pdftex.def Info: ../report/figures/02_income_distribution.png  used on 
+input line 343.
+(pdftex.def)             Requested size: 220.09167pt x 120.43881pt.
 
-Overfull \vbox (71.66861pt too high) detected at line 407
- []
+
+Class beamer Warning: Frame text is shrunk by a factor of 16.02325 percent inst
+ead of 5 percent on input line 343.
 
 
 
 [9
 
- <../report/figures/05_wtp_pie.png> <../report/figures/06_wtp_amount_distributi
-on.png>]
-<../report/figures/07_protest_bids.png, id=154, 397.84634pt x 308.23155pt>
-File: ../report/figures/07_protest_bids.png Graphic file (type png)
-<use ../report/figures/07_protest_bids.png>
-Package pdftex.def Info: ../report/figures/07_protest_bids.png  used on input l
-ine 436.
-(pdftex.def)             Requested size: 176.27144pt x 136.56294pt.
+ <../report/figures/01_age_distribution.png> <../report/figures/02_income_distr
+ibution.png>]
+<../report/figures/04_aspects_valued.png, id=180, 557.2017pt x 312.56775pt>
+File: ../report/figures/04_aspects_valued.png Graphic file (type png)
+<use ../report/figures/04_aspects_valued.png>
+Package pdftex.def Info: ../report/figures/04_aspects_valued.png  used on input
+ line 371.
+(pdftex.def)             Requested size: 243.7356pt x 136.72896pt.
 
 
 [10
 
- <../report/figures/07_protest_bids.png>]
-<../report/figures/08_future_importance.png, id=175, 413.74574pt x 312.2064pt>
-File: ../report/figures/08_future_importance.png Graphic file (type png)
-<use ../report/figures/08_future_importance.png>
-Package pdftex.def Info: ../report/figures/08_future_importance.png  used on in
-put line 468.
-(pdftex.def)             Requested size: 177.57925pt x 133.99841pt.
-<../report/figures/09_existence_value.png, id=176, 329.91255pt x 338.58495pt>
-File: ../report/figures/09_existence_value.png Graphic file (type png)
-<use ../report/figures/09_existence_value.png>
-Package pdftex.def Info: ../report/figures/09_existence_value.png  used on inpu
-t line 468.
-(pdftex.def)             Requested size: 177.57925pt x 182.24933pt.
-
-Overfull \vbox (65.66882pt too high) detected at line 468
- []
-
-
-
-[11
-
- <../report/figures/08_future_importance.png> <../report/figures/09_existence_v
-alue.png>]
-<../report/figures/10_ecological_condition.png, id=184, 413.74574pt x 298.11375
+ <../report/figures/04_aspects_valued.png>]
+<../report/figures/10_ecological_condition.png, id=201, 413.74574pt x 298.11375
 pt>
 File: ../report/figures/10_ecological_condition.png Graphic file (type png)
 <use ../report/figures/10_ecological_condition.png>
 Package pdftex.def Info: ../report/figures/10_ecological_condition.png  used on
- input line 497.
+ input line 395.
 (pdftex.def)             Requested size: 217.62202pt x 156.80318pt.
+
+
+[11
+
+ <../report/figures/10_ecological_condition.png>]
+<../report/figures/05_wtp_pie.png, id=209, 366.04755pt x 308.23155pt>
+File: ../report/figures/05_wtp_pie.png Graphic file (type png)
+<use ../report/figures/05_wtp_pie.png>
+Package pdftex.def Info: ../report/figures/05_wtp_pie.png  used on input line 4
+34.
+(pdftex.def)             Requested size: 173.3218pt x 145.95058pt.
 
 
 [12
 
- <../report/figures/10_ecological_condition.png>]
-<../report/figures/11_transport_mode.png, id=206, 376.16534pt x 308.23155pt>
-File: ../report/figures/11_transport_mode.png Graphic file (type png)
-<use ../report/figures/11_transport_mode.png>
-Package pdftex.def Info: ../report/figures/11_transport_mode.png  used on input
- line 542.
-(pdftex.def)             Requested size: 208.91528pt x 171.18811pt.
-<../report/figures/12_travel_cost.png, id=207, 454.93965pt x 312.56775pt>
-File: ../report/figures/12_travel_cost.png Graphic file (type png)
-<use ../report/figures/12_travel_cost.png>
-Package pdftex.def Info: ../report/figures/12_travel_cost.png  used on input li
-ne 542.
-(pdftex.def)             Requested size: 208.91528pt x 143.53488pt.
-
-Overfull \vbox (178.97563pt too high) detected at line 542
- []
-
+ <../report/figures/05_wtp_pie.png>]
+<../report/figures/06_wtp_amount_distribution.png, id=233, 413.74574pt x 312.56
+775pt>
+File: ../report/figures/06_wtp_amount_distribution.png Graphic file (type png)
+<use ../report/figures/06_wtp_amount_distribution.png>
+Package pdftex.def Info: ../report/figures/06_wtp_amount_distribution.png  used
+ on input line 479.
+(pdftex.def)             Requested size: 158.18463pt x 119.50192pt.
 
 
 [13
 
- <../report/figures/11_transport_mode.png> <../report/figures/12_travel_cost.pn
-g>]
-<../report/figures/19_consumer_surplus.png, id=218, 448.7967pt x 340.3917pt>
-File: ../report/figures/19_consumer_surplus.png Graphic file (type png)
-<use ../report/figures/19_consumer_surplus.png>
-Package pdftex.def Info: ../report/figures/19_consumer_surplus.png  used on inp
-ut line 568.
-(pdftex.def)             Requested size: 239.38554pt x 181.56499pt.
+ <../report/figures/06_wtp_amount_distribution.png>]
+<../report/figures/08_future_importance.png, id=256, 413.74574pt x 312.2064pt>
+File: ../report/figures/08_future_importance.png Graphic file (type png)
+<use ../report/figures/08_future_importance.png>
+Package pdftex.def Info: ../report/figures/08_future_importance.png  used on in
+put line 507.
+(pdftex.def)             Requested size: 193.68175pt x 146.15106pt.
+<../report/figures/09_existence_value.png, id=257, 329.91255pt x 338.58495pt>
+File: ../report/figures/09_existence_value.png Graphic file (type png)
+<use ../report/figures/09_existence_value.png>
+Package pdftex.def Info: ../report/figures/09_existence_value.png  used on inpu
+t line 507.
+(pdftex.def)             Requested size: 193.68175pt x 198.77142pt.
 
-Overfull \vbox (8.81763pt too high) detected at line 568
- []
+
+Class beamer Warning: Frame text is shrunk by a factor of 21.86737 percent inst
+ead of 5 percent on input line 507.
 
 
 
 [14
 
- <../report/figures/19_consumer_surplus.png>]
-<../report/figures/16_age_vs_wtp.png, id=225, 441.93105pt x 325.9377pt>
+ <../report/figures/08_future_importance.png> <../report/figures/09_existence_v
+alue.png>]
+<../report/figures/16_age_vs_wtp.png, id=265, 441.93105pt x 325.9377pt>
 File: ../report/figures/16_age_vs_wtp.png Graphic file (type png)
 <use ../report/figures/16_age_vs_wtp.png>
 Package pdftex.def Info: ../report/figures/16_age_vs_wtp.png  used on input lin
-e 595.
-(pdftex.def)             Requested size: 208.91528pt x 154.08096pt.
-<../report/figures/15_income_vs_wtp.png, id=226, 441.93105pt x 325.9377pt>
+e 555.
+(pdftex.def)             Requested size: 216.20314pt x 159.45721pt.
+<../report/figures/15_income_vs_wtp.png, id=266, 441.93105pt x 325.9377pt>
 File: ../report/figures/15_income_vs_wtp.png Graphic file (type png)
 <use ../report/figures/15_income_vs_wtp.png>
 Package pdftex.def Info: ../report/figures/15_income_vs_wtp.png  used on input 
-line 595.
-(pdftex.def)             Requested size: 208.91528pt x 154.08096pt.
+line 555.
+(pdftex.def)             Requested size: 216.20314pt x 159.45721pt.
 
-Overfull \vbox (41.30606pt too high) detected at line 595
- []
+
+Class beamer Warning: Frame text is shrunk by a factor of 22.99652 percent inst
+ead of 8 percent on input line 555.
 
 
 
@@ -1321,22 +1213,10 @@ Overfull \vbox (41.30606pt too high) detected at line 595
 
  <../report/figures/16_age_vs_wtp.png> <../report/figures/15_income_vs_wtp.png>
 ]
-<../report/figures/21_total_economic_value.png, id=234, 441.93105pt x 377.9721p
-t>
-File: ../report/figures/21_total_economic_value.png Graphic file (type png)
-<use ../report/figures/21_total_economic_value.png>
-Package pdftex.def Info: ../report/figures/21_total_economic_value.png  used on
- input line 644.
-(pdftex.def)             Requested size: 204.56523pt x 174.9593pt.
-
-Overfull \vbox (49.74197pt too high) detected at line 644
- []
-
-
 
 [16
 
- <../report/figures/21_total_economic_value.png>]
+]
 
 [17
 
@@ -1349,23 +1229,37 @@ Overfull \vbox (49.74197pt too high) detected at line 644
 [19
 
 ]
+<../Images/Review 3.jpeg, id=345, 1284.8pt x 579.16376pt>
+File: ../Images/Review 3.jpeg Graphic file (type jpg)
+<use ../Images/Review 3.jpeg>
+Package pdftex.def Info: ../Images/Review 3.jpeg  used on input line 713.
+(pdftex.def)             Requested size: 216.1978pt x 62.5947pt.
+<../Images/Review 5.jpeg, id=346, 957.5775pt x 572.1375pt>
+File: ../Images/Review 5.jpeg Graphic file (type jpg)
+<use ../Images/Review 5.jpeg>
+Package pdftex.def Info: ../Images/Review 5.jpeg  used on input line 713.
+(pdftex.def)             Requested size: 216.20543pt x 62.59483pt.
+<../Images/Review 6.jpeg, id=347, 1284.8pt x 578.16pt>
+File: ../Images/Review 6.jpeg Graphic file (type jpg)
+<use ../Images/Review 6.jpeg>
+Package pdftex.def Info: ../Images/Review 6.jpeg  used on input line 713.
+(pdftex.def)             Requested size: 216.1978pt x 62.59209pt.
+<../Images/Review 7.jpeg, id=348, 1284.8pt x 578.16pt>
+File: ../Images/Review 7.jpeg Graphic file (type jpg)
+<use ../Images/Review 7.jpeg>
+Package pdftex.def Info: ../Images/Review 7.jpeg  used on input line 713.
+(pdftex.def)             Requested size: 216.1978pt x 62.59209pt.
+
+
+Class beamer Warning: Frame text is shrunk by a factor of 9.61761 percent inste
+ad of 8 percent on input line 713.
+
+
 
 [20
 
-]
-
-LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <28> not available
-(Font)              size <29.86> substituted on input line 762.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <28> not available
-(Font)              size <29.86> substituted on input line 762.
-
-
-
-[21
-
-]
+ <../Images/Review 3.jpeg> <../Images/Review 5.jpeg> <../Images/Review 6.jpeg> 
+<../Images/Review 7.jpeg>]
 \tf@nav=\write6
 \openout6 = `ppt.nav'.
 
@@ -1380,44 +1274,39 @@ LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <28> not available
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 1.86pt have occurred.
-
 Package rerunfilecheck Info: File `ppt.out' has not changed.
-(rerunfilecheck)             Checksum: 8AE94FC0C430C32462B09B86E9B61C01;872.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 26770 strings out of 474662
- 537049 string characters out of 5751108
- 884681 words of memory out of 5000000
- 49246 multiletter control sequences out of 15000+600000
- 574330 words of font info for 92 fonts, out of 8000000 for 9000
+ 26587 strings out of 474662
+ 534936 string characters out of 5751108
+ 886353 words of memory out of 5000000
+ 49081 multiletter control sequences out of 15000+600000
+ 569754 words of font info for 75 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 101i,15n,107p,378b,947s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
-2.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx7.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmbx9.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmex10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2025basic/texmf-dist/font
-s/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2025basic/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2025basic/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2025basic/texmf
--dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2025basic
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/local/texlive/2025b
-asic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
-025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on ppt.pdf (21 pages, 1336588 bytes).
+ 101i,12n,107p,378b,912s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7
+.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+bx9.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi7.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr7.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr9.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmss10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmss12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2025basic/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2025basic/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/local/texlive/2025basic/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2025basic/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025bas
+ic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2025
+basic/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on ppt.pdf (20 pages, 3123348 bytes).
 PDF statistics:
- 417 PDF objects out of 1000 (max. 8388607)
- 253 compressed objects within 3 object streams
- 50 named destinations out of 1000 (max. 500000)
- 578 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 438 PDF objects out of 1000 (max. 8388607)
+ 248 compressed objects within 3 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 697 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,55 @@
+\contentsline {part}{Part I: Understanding the Basics}{4}{part*.1}%
+\contentsline {section}{\numberline {1}What Is This Project About?}{4}{section.1}%
+\contentsline {section}{\numberline {2}Our Method: CVM (Contingent Valuation Method)}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Why CVM and not TCM?}{5}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Types of Value --- Why a Park is Worth More Than You Think}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Use Value (you personally use the park)}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Non-Use Value (you care about the park even beyond your own visits)}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Total Economic Value (TEV)}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}What is ``Willingness to Pay'' (WTP)?}{6}{section.4}%
+\contentsline {section}{\numberline {5}What is ``Consumer Surplus''?}{6}{section.5}%
+\contentsline {section}{\numberline {6}What is a ``Protest Bid''?}{6}{section.6}%
+\contentsline {part}{Part II: Our Data and Calculations}{7}{part*.2}%
+\contentsline {section}{\numberline {7}What We Did}{7}{section.7}%
+\contentsline {section}{\numberline {8}Who We Surveyed}{7}{section.8}%
+\contentsline {section}{\numberline {9}What Visitors Value Most}{7}{section.9}%
+\contentsline {section}{\numberline {10}Ecological Condition Rating}{8}{section.10}%
+\contentsline {section}{\numberline {11}The Big Calculation: CVM Willingness to Pay}{8}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Step 1: Did people say Yes or No?}{8}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Step 2: How much did the willing people choose?}{8}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}Step 3: Calculate Total WTP (ticket + extra)}{8}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4}Step 4: Scale up to the whole park}{9}{subsection.11.4}%
+\contentsline {section}{\numberline {12}Protest Bid Analysis}{9}{section.12}%
+\contentsline {section}{\numberline {13}Non-Use Values}{9}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Bequest Value (preserving for future generations)}{9}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Existence Value (caring even without visiting)}{10}{subsection.13.2}%
+\contentsline {section}{\numberline {14}Non-Use Value Evidence}{10}{section.14}%
+\contentsline {section}{\numberline {15}Final Answer: Total Economic Value from CVM}{10}{section.15}%
+\contentsline {section}{\numberline {16}Cross-Tabulations: Who Is Willing to Pay?}{10}{section.16}%
+\contentsline {part}{Part III: Slide-by-Slide Script}{12}{part*.3}%
+\contentsline {subsection}{\numberline {16.1}Slide 1: Title Page \normalfont \small (5--10 sec)}{12}{subsection.16.1}%
+\contentsline {subsection}{\numberline {16.2}Slide 2: Roadmap \normalfont \small (15--20 sec)}{12}{subsection.16.2}%
+\contentsline {subsection}{\numberline {16.3}Slide 3: Why Sunder Nursery? \normalfont \small (45--60 sec)}{12}{subsection.16.3}%
+\contentsline {subsection}{\numberline {16.4}Slide 4: Site Background \normalfont \small (45--60 sec)}{12}{subsection.16.4}%
+\contentsline {subsection}{\numberline {16.5}Slide 5: How We Evaluated --- CVM \normalfont \small (60--75 sec)}{12}{subsection.16.5}%
+\contentsline {subsection}{\numberline {16.6}Slide 6: Why CVM Over Other Methods? \normalfont \small (30--40 sec)}{13}{subsection.16.6}%
+\contentsline {subsection}{\numberline {16.7}Slide 7: Survey Design \normalfont \small (45--60 sec)}{13}{subsection.16.7}%
+\contentsline {subsection}{\numberline {16.8}Slide 8: QR Code / Survey Form \normalfont \small (10--15 sec)}{13}{subsection.16.8}%
+\contentsline {subsection}{\numberline {16.9}Slide 9: Demographics \normalfont \small (25--30 sec)}{13}{subsection.16.9}%
+\contentsline {subsection}{\numberline {16.10}Slide 10: What Visitors Value \normalfont \small (30--40 sec)}{13}{subsection.16.10}%
+\contentsline {subsection}{\numberline {16.11}Slide 11: Ecological Condition \normalfont \small (20--25 sec)}{13}{subsection.16.11}%
+\contentsline {subsection}{\numberline {16.12}Slide 12: CVM Result 1 --- WTP \normalfont \small \textcolor {alertred}{[KEY SLIDE --- 75--90 sec]}}{13}{subsection.16.12}%
+\contentsline {subsection}{\numberline {16.13}Slide 13: WTP Distribution \& Protest Bids \normalfont \small (45--60 sec)}{14}{subsection.16.13}%
+\contentsline {subsection}{\numberline {16.14}Slide 14: Non-Use Values \normalfont \small (35--45 sec)}{14}{subsection.16.14}%
+\contentsline {subsection}{\numberline {16.15}Slide 15: Cross-Tabulations \normalfont \small (35--45 sec)}{14}{subsection.16.15}%
+\contentsline {subsection}{\numberline {16.16}Slide 16: Total Economic Value \normalfont \small \textcolor {alertred}{[KEY SLIDE --- 50--70 sec]}}{14}{subsection.16.16}%
+\contentsline {subsection}{\numberline {16.17}Slide 17: Discussion \& Limitations \normalfont \small (35--45 sec)}{14}{subsection.16.17}%
+\contentsline {subsection}{\numberline {16.18}Slide 18: Conclusion \normalfont \small (25--30 sec)}{14}{subsection.16.18}%
+\contentsline {subsection}{\numberline {16.19}Slide 19: References \normalfont \small (5 sec)}{15}{subsection.16.19}%
+\contentsline {subsection}{\numberline {16.20}Slide 20: Field Visit Proof \normalfont \small (10--15 sec)}{15}{subsection.16.20}%
+\contentsline {part}{Part IV: Every Question the Prof Could Ask}{16}{part*.4}%
+\contentsline {subsection}{\numberline {16.21}Basic Conceptual Questions}{16}{subsection.16.21}%
+\contentsline {subsection}{\numberline {16.22}Questions About Our Specific Study}{16}{subsection.16.22}%
+\contentsline {subsection}{\numberline {16.23}Deep Conceptual Questions}{18}{subsection.16.23}%
+\contentsline {part}{Part V: Timing Guide}{20}{part*.5}%
+\contentsline {part}{Part VI: One-Page Cheat Sheet}{21}{part*.6}%

@@ -1,0 +1,840 @@
+\documentclass[11pt, a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage[table]{xcolor}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{tabularx}
+
+\geometry{a4paper, margin=0.9in, top=1in, bottom=0.9in}
+\onehalfspacing
+
+\newcommand{\rupee}{Rs.\,}
+
+\definecolor{navy}{HTML}{003B5C}
+\definecolor{accent}{HTML}{0077B6}
+\definecolor{lightgray}{HTML}{F0F4F8}
+\definecolor{alertred}{HTML}{B91C1C}
+\definecolor{darkgreen}{HTML}{047857}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=navy,
+    urlcolor=accent,
+}
+
+\titleformat{\section}{\Large\bfseries\color{navy}}{}{0pt}{}[\vspace{-4pt}\color{accent}\rule{\textwidth}{1pt}]
+\titleformat{\subsection}{\large\bfseries\color{navy}}{}{0pt}{}
+\titleformat{\subsubsection}{\normalsize\bfseries\color{accent}}{}{0pt}{}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{navy}\textbf{Preparation Guide}}
+\fancyhead[R]{\small\color{navy}Sunder Nursery -- RDL725}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\newenvironment{keybox}{%
+    \def\FrameCommand{\textcolor{accent}{\vrule width 2pt}\hspace{8pt}}%
+    \MakeFramed{\advance\hsize-\width\FrameRestore}%
+}{%
+    \endMakeFramed%
+}
+
+\newenvironment{warnbox}{%
+    \def\FrameCommand{\textcolor{alertred}{\vrule width 2pt}\hspace{8pt}}%
+    \MakeFramed{\advance\hsize-\width\FrameRestore}%
+}{%
+    \endMakeFramed%
+}
+
+\newenvironment{ansbox}{%
+    \def\FrameCommand{\textcolor{darkgreen}{\vrule width 2pt}\hspace{8pt}}%
+    \MakeFramed{\advance\hsize-\width\FrameRestore}%
+}{%
+    \endMakeFramed%
+}
+
+\begin{document}
+
+% ── TITLE ─────────────────────────────────────────
+\begin{center}
+    {\color{navy}\rule{\textwidth}{2pt}}\\[12pt]
+    {\Huge\bfseries\color{navy} Presentation Preparation Guide}\\[8pt]
+    {\Large\color{accent} Ecological Evaluation of Sunder Nursery}\\[6pt]
+    {\large RDL725 -- Ecological Perspective of Growth and Development}\\[4pt]
+    {\normalsize Start here even if you know nothing about economics or valuation}\\[12pt]
+    {\color{navy}\rule{\textwidth}{2pt}}
+\end{center}
+\vspace{0.5cm}
+
+\tableofcontents
+\newpage
+
+% ══════════════════════════════════════════════════════
+\part*{Part I: Understanding the Basics}
+\addcontentsline{toc}{part}{Part I: Understanding the Basics}
+% ══════════════════════════════════════════════════════
+
+\section{What Is This Project About?}
+
+Sunder Nursery is a beautiful 90-acre park in Delhi with old Mughal monuments, gardens, birds, and wetlands. The entry ticket costs \rupee 20--30. But is the park really worth only \rupee 20--30? Obviously not --- people travel long distances, spend hours there, and deeply care about its preservation. The park provides benefits that have no price tag: peace of mind, beauty, heritage, clean air, bird habitat, and so on.
+
+\begin{keybox}
+\textbf{Our job:} Put a number on the true economic value of Sunder Nursery --- how much is it actually worth to people?
+\end{keybox}
+
+\textbf{The problem:} You can't just look at the ticket price because that's artificially low. And there's no ``market'' where people buy and sell ``enjoyment of Sunder Nursery.'' So how do you measure the value of something that isn't bought or sold?
+
+\textbf{The answer:} Economists have developed special methods for this. We used \textbf{CVM (Contingent Valuation Method)}.
+
+% ──────────────────────────────────────────────────
+\section{Our Method: CVM (Contingent Valuation Method)}
+
+\textbf{Plain English:} You directly ask people: ``How much would you pay?''
+
+\textbf{Analogy:} Imagine a park is about to be closed unless visitors pay more. You ask visitors: ``Would you be willing to pay \rupee 100 instead of \rupee 50 to keep this park open?'' Their answers tell you how much the park is worth to them.
+
+\textbf{Why it's called ``contingent'':} Because the payment is contingent (dependent) on a hypothetical scenario --- ``IF the park needed more money for conservation, WOULD you pay more?''
+
+\textbf{What makes it special:} It's the ONLY method that can capture ALL types of value --- including the value people place on the park even if they never visit it. The textbook says: ``Contingent valuation [is a] general technique to elicit willingness to pay in broad and inclusive sense --- use and non-use value.''
+
+\textbf{How we used it:} We asked 45 visitors at Sunder Nursery: ``Would you pay a slightly higher entry fee to guarantee permanent protection of the park's monuments, gardens, and birds?'' If yes, how much extra --- \rupee 10, 20, 50, or 100?
+
+\textbf{Survey follows the textbook's two-phase approach:}
+\begin{enumerate}[nosep]
+    \item \textbf{Scenario phase:} explain the park's attributes, services, ecological condition
+    \item \textbf{Valuation phase:} WTP question, bid amounts, protest-bid identification, non-use values
+\end{enumerate}
+
+\subsection{Why CVM and not TCM?}
+
+The alternative method is TCM (Travel Cost Method) --- observing what people actually spend to travel to the site. But TCM has two problems for our case:
+\begin{itemize}[nosep]
+    \item The textbook explicitly states TCM ``does not account for a recreational site's existence value'' --- it misses non-use values entirely
+    \item 53\% of our respondents were on multi-destination trips, making travel cost unreliable
+\end{itemize}
+Sunder Nursery has uniqueness, irreversibility, and strong intergenerational significance --- exactly the type of resource where non-use values matter. CVM is the right tool.
+
+% ──────────────────────────────────────────────────
+\section{Types of Value --- Why a Park is Worth More Than You Think}
+
+\subsection{Use Value (you personally use the park)}
+\begin{itemize}[nosep]
+    \item You walk through the gardens, enjoy the flowers, watch birds, sit by the lake
+    \item This is the direct benefit you get from physically being there
+    \item In CVM, use value is reflected in the portion of WTP driven by personal enjoyment
+\end{itemize}
+
+\subsection{Non-Use Value (you care about the park even beyond your own visits)}
+
+Non-use value has three parts:
+
+\begin{description}[style=nextline]
+    \item[\textcolor{accent}{(a) Option Value}] ``I might want to visit next year, so I want the park to stay open.'' Like buying insurance --- you pay to keep the option available.
+    \item[\textcolor{accent}{(b) Bequest Value}] ``I want my children and grandchildren to be able to enjoy this park.'' The satisfaction of knowing future generations will benefit.
+    \item[\textcolor{accent}{(c) Existence Value}] ``Even if I move to another city and never come back, I'm happy knowing this park exists and is protected.'' You value its mere existence, independent of any personal use.
+\end{description}
+
+\subsection{Total Economic Value (TEV)}
+
+\begin{keybox}
+\[
+\text{TEV} = \underbrace{\text{Use Value}}_{\text{direct enjoyment}} + \underbrace{\text{Non-Use Value}}_{\text{Option + Bequest + Existence}}
+\]
+\textbf{Why this matters:} If the government only considers ticket revenue (\rupee 20 $\times$ visitors), they massively undervalue the park. TEV shows the park's true value --- including the fact that millions of people want it to exist --- is enormous.
+\end{keybox}
+
+% ──────────────────────────────────────────────────
+\section{What is ``Willingness to Pay'' (WTP)?}
+
+WTP is the \textbf{maximum total amount} of money a person would be willing to pay for a good or service.
+
+\textbf{Key point for our study:} The current ticket price is \rupee 50. Our survey asks ``how much \textit{extra} would you pay?'' But WTP by definition is the \textbf{total} amount, not just the extra. So:
+\begin{itemize}[nosep]
+    \item Someone who says ``\rupee 20 extra'' has a total WTP = \rupee 50 + \rupee 20 = \rupee 70
+    \item Someone who says ``\rupee 100 extra'' has a total WTP = \rupee 50 + \rupee 100 = \rupee 150
+    \item Someone who says ``No'' to paying extra is still visiting and paying \rupee 50, so their WTP $\geq$ \rupee 50
+\end{itemize}
+
+\textbf{Mean WTP:} The average total WTP across all respondents.
+
+\textbf{Why we care:} If we know the average WTP and the number of visitors, we can estimate the total value of the park to society. The gap between total WTP and the ticket price is the \textbf{ecological value not captured by the market}.
+
+% ──────────────────────────────────────────────────
+\section{What is ``Consumer Surplus''?}
+
+\textbf{Plain English:} The bonus value you get because something costs less than what you'd actually pay for it.
+
+\textbf{Analogy:} You're dying of thirst and would pay \rupee 100 for a bottle of water. The shop sells it for \rupee 20. You pay \rupee 20 but you valued it at \rupee 100. Your consumer surplus is \rupee 100 $-$ \rupee 20 = \rupee 80. You got \rupee 80 worth of ``free bonus happiness.''
+
+\textbf{For our study:} If someone's total WTP is \rupee 90 but the ticket is \rupee 50, their consumer surplus is \rupee 40. Aggregated across all visitors, this surplus is the ecological value that the market price fails to capture --- our \rupee 4.00 crore/year figure.
+
+% ──────────────────────────────────────────────────
+\section{What is a ``Protest Bid''?}
+
+When you ask ``would you pay extra?'', some people say No --- but not because the park is worthless to them. They say No because they think: ``The GOVERNMENT should pay for conservation, not me as a visitor.'' This is a protest against the payment mechanism, not against the park's value.
+
+These are called \textbf{protest bids}. In proper CVM analysis, you identify them and optionally exclude them, because including them unfairly drags down the WTP estimate.
+
+In our survey, 5 out of 15 ``No'' respondents said ``government should pay'' --- these are the protest bids. If we remove them, the WTP rate goes from 66.7\% to 75\%.
+
+\newpage
+% ══════════════════════════════════════════════════════
+\part*{Part II: Our Data and Calculations}
+\addcontentsline{toc}{part}{Part II: Our Data and Calculations}
+% ══════════════════════════════════════════════════════
+
+\section{What We Did}
+
+\begin{itemize}[nosep]
+    \item \textbf{Where:} Sunder Nursery, New Delhi
+    \item \textbf{When:} Friday, 10 April 2026, 4:00 PM -- 7:30 PM
+    \item \textbf{How:} In-person survey using a bilingual (Hindi-English) Google Form on mobile phones
+    \item \textbf{How many:} 45 visitors surveyed
+    \item \textbf{What we asked:} 16 questions covering: what they value, would they pay more (CVM), non-use values (bequest, existence), travel cost (demographic), demographics
+\end{itemize}
+
+% ──────────────────────────────────────────────────
+\section{Who We Surveyed}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{llr}
+\toprule
+\textbf{Category} & \textbf{Group} & \textbf{Count (\%)} \\
+\midrule
+\multirow{4}{*}{\textbf{Age}} & Under 18 & 4 (8.9\%) \\
+ & 18--35 & 20 (44.4\%) \\
+ & 36--60 & 12 (26.7\%) \\
+ & 60+ & 9 (20.0\%) \\
+\midrule
+\multirow{5}{*}{\textbf{Income}} & Student & 16 (35.6\%) \\
+ & Under \rupee 50,000/month & 5 (11.1\%) \\
+ & \rupee 50,000 -- 1,00,000 & 10 (22.2\%) \\
+ & Above \rupee 1,00,000 & 11 (24.4\%) \\
+ & Other/NA & 3 (6.7\%) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Why this mix makes sense:} Friday evening at a Delhi park --- you'd expect young adults and students (they make up 53\% of our sample), plus families with kids, middle-aged couples, and retired seniors. That's exactly what we got.
+
+% ──────────────────────────────────────────────────
+\section{What Visitors Value Most}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lrr}
+\toprule
+\textbf{Aspect} & \textbf{Count} & \textbf{\%} \\
+\midrule
+Scenic beauty & 38 & 84.4\% \\
+Heritage monuments & 25 & 55.6\% \\
+Plants and birds & 21 & 46.7\% \\
+Quietude / escape from city & 18 & 40.0\% \\
+Future generations & 15 & 33.3\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+People value the \textbf{combined experience} --- beauty + heritage + nature. A third picked ``future generations'' voluntarily, showing bequest value exists even without asking directly.
+
+% ──────────────────────────────────────────────────
+\section{Ecological Condition Rating}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lrr}
+\toprule
+\textbf{Rating} & \textbf{Count} & \textbf{\%} \\
+\midrule
+Excellent & 17 & 37.8\% \\
+Good & 22 & 48.9\% \\
+Average & 6 & 13.3\% \\
+Poor & 0 & 0.0\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{keybox}
+\textbf{Key number:} 86.7\% rated it Good or Excellent. Zero said Poor. This validates that the Aga Khan Trust's restoration actually worked and visitors can see the difference.
+\end{keybox}
+
+% ──────────────────────────────────────────────────
+\section{The Big Calculation: CVM Willingness to Pay}
+
+\subsection{Step 1: Did people say Yes or No?}
+\begin{itemize}[nosep]
+    \item \textbf{Yes (willing to pay more):} 30 out of 45 = \textbf{66.7\%}
+    \item No (not willing): 15 out of 45 = 33.3\%
+\end{itemize}
+
+\subsection{Step 2: How much did the willing people choose?}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lrr}
+\toprule
+\textbf{Amount} & \textbf{People} & \textbf{Subtotal} \\
+\midrule
+\rupee 10 extra & 4 & \rupee 40 \\
+\rupee 20 extra & 13 & \rupee 260 \\
+\rupee 50 extra & 8 & \rupee 400 \\
+\rupee 100 extra & 5 & \rupee 500 \\
+\midrule
+\textbf{Total} & \textbf{30} & \textbf{\rupee 1,200} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Step 3: Calculate Total WTP (ticket + extra)}
+
+Remember: WTP = total amount willing to pay = current ticket (\rupee 50) + extra amount.
+
+\begin{keybox}
+\textbf{Mean extra amount (willing only):} $1200 / 30 = \text{\rupee 40}$
+
+\textbf{Mean Total WTP (willing only):} $\text{\rupee 50} + \text{\rupee 40} = \textbf{\rupee 90}$
+
+\textbf{Median Total WTP (willing):} $\text{\rupee 50} + \text{\rupee 20} = \textbf{\rupee 70}$
+
+\textbf{For the 15 who said No:} They are visiting and paying the \rupee 50 ticket, so their WTP $= \text{\rupee 50}$.
+
+\textbf{Overall Mean Total WTP:}
+\[ \frac{(30 \times 90) + (15 \times 50)}{45} = \frac{2700 + 750}{45} = \textbf{\rupee 76.7 per visit} \]
+\end{keybox}
+
+\subsection{Step 4: Scale up to the whole park}
+
+\begin{keybox}
+\textbf{Aggregate Annual WTP:}
+\[ \text{\rupee 76.7} \times 15{,}00{,}000 = \textbf{\rupee 11.50 crore per year} \]
+
+\textbf{Already captured as ticket revenue:}
+\[ \text{\rupee 50} \times 15{,}00{,}000 = \text{\rupee 7.50 crore per year} \]
+
+\textbf{Additional ecological value (not captured by market):}
+\[ \text{\rupee 11.50} - \text{\rupee 7.50} = \textbf{\rupee 4.00 crore per year} \]
+
+This \rupee 4.00 crore represents the value visitors place on Sunder Nursery's conservation \textit{above} what the current ticket captures.
+\end{keybox}
+
+% ──────────────────────────────────────────────────
+\section{Protest Bid Analysis}
+
+Among the 15 people who said ``No, I won't pay more'':
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lrr}
+\toprule
+\textbf{Reason} & \textbf{Count} & \textbf{\%} \\
+\midrule
+``Not worth paying more'' & 6 & 40\% \\
+``Government should pay, not visitors'' & 5 & 33\% \\
+``I can't afford to pay more'' & 4 & 27\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The 5 ``government should pay'' responses are \textbf{protest bids}. If you remove them:
+\[
+\text{Adjusted WTP rate} = \frac{30}{40} = 75\%
+\]
+
+We used the conservative 66.7\% (without removing protest bids) for our main calculation.
+
+% ──────────────────────────────────────────────────
+\section{Non-Use Values}
+
+\subsection{Bequest Value (preserving for future generations)}
+\begin{itemize}[nosep]
+    \item Question: ``How important is it that Sunder Nursery is preserved for future generations?''
+    \item \textbf{Very important: 68.9\% (31/45)}
+    \item Somewhat important: 26.7\% (12/45)
+    \item Not important: 4.4\% (2/45)
+\end{itemize}
+
+\subsection{Existence Value (caring even without visiting)}
+\begin{itemize}[nosep]
+    \item Question: ``Would you support conservation even if you could never visit again?''
+    \item \textbf{Yes: 82.2\% (37/45)}
+    \item No: 17.8\% (8/45)
+\end{itemize}
+
+82\% would support conservation even if they could never go back. This is value beyond personal use --- exactly what CVM is designed to capture.
+
+% ──────────────────────────────────────────────────
+\section{Non-Use Value Evidence}
+
+Our CVM WTP of \rupee 76.7 already bundles both use and non-use values --- that is a strength of CVM. The survey responses let us see how strongly non-use motives drive WTP:
+
+\begin{itemize}[nosep]
+    \item Bequest fraction = 31/45 = 68.9\% said ``very important''
+    \item Existence fraction = 37/45 = 82.2\% would support conservation even if they could never visit again
+\end{itemize}
+
+These high fractions confirm that a large share of the \rupee 76.7 is motivated by non-use considerations, not just personal recreation. For comparison, in the Lumpinee Park study from the textbook, existence value alone caused a 9x multiplier on the capitalized value.
+
+% ──────────────────────────────────────────────────
+\section{Final Answer: Total Economic Value from CVM}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lr}
+\toprule
+\textbf{Component} & \textbf{Value} \\
+\midrule
+Overall mean Total WTP per visit & \rupee 76.7 \\
+Annual visitors & 15,00,000 \\
+\textbf{Aggregate Annual WTP} & \textbf{\rupee 11.50 crore/year} \\
+\midrule
+Current ticket revenue (\rupee 50 $\times$ 15 lakh) & \rupee 7.50 crore/year \\
+\textbf{Additional ecological value} & \textbf{\rupee 4.00 crore/year} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{keybox}
+The total WTP of \rupee 11.50 crore/year represents what visitors believe the park is worth. The \rupee 4.00 crore gap is the ecological and heritage value that the ticket price fails to capture. This includes both use value (personal enjoyment beyond the ticket) and non-use value (bequest and existence).
+\end{keybox}
+
+% ──────────────────────────────────────────────────
+\section{Cross-Tabulations: Who Is Willing to Pay?}
+
+\begin{table}[h]
+\centering
+\begin{minipage}{0.48\textwidth}
+\centering
+\textbf{Age vs WTP}\\[4pt]
+\begin{tabular}{lrl}
+\toprule
+\textbf{Age} & \textbf{Yes/Total} & \textbf{Rate} \\
+\midrule
+Under 18 & 4/4 & 100\% \\
+18--35 & 14/20 & 70\% \\
+36--60 & 8/12 & 67\% \\
+60+ & 4/9 & 44\% \\
+\bottomrule
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{0.48\textwidth}
+\centering
+\textbf{Income vs WTP}\\[4pt]
+\begin{tabular}{lrl}
+\toprule
+\textbf{Income} & \textbf{Yes/Total} & \textbf{Rate} \\
+\midrule
+Student & 13/16 & 81\% \\
+$<$\rupee 50K & 2/5 & 40\% \\
+\rupee 50K--1L & 7/10 & 70\% \\
+$\geq$\rupee 1L & 8/13 & 62\% \\
+\bottomrule
+\end{tabular}
+\end{minipage}
+\end{table}
+
+\textbf{The surprising finding:} Students have the HIGHEST WTP rate (81\%) despite having the LOWEST income. Why? Because (a) the extra amounts are small (\rupee 10--20), so income isn't a real barrier, (b) students tend to have stronger environmental awareness, and (c) many students are frequent visitors with emotional attachment to the park.
+
+\newpage
+% ══════════════════════════════════════════════════════
+\part*{Part III: Slide-by-Slide Script}
+\addcontentsline{toc}{part}{Part III: Slide-by-Slide Script}
+% ══════════════════════════════════════════════════════
+
+{\small\textit{What to say on each slide. Practice saying these out loud.}}
+
+\subsection{Slide 1: Title Page \normalfont\small(5--10 sec)}
+\begin{ansbox}
+``Good [morning/afternoon]. We are presenting our ecological evaluation of Sunder Nursery, done as part of the RDL725 field assignment. Our team members are [names]. Let me walk you through what we found.''
+\end{ansbox}
+
+\subsection{Slide 2: Roadmap \normalfont\small(15--20 sec)}
+\begin{ansbox}
+``Here's what we'll cover: first, why we picked Sunder Nursery and why its value needs to be measured. Then we'll explain our method --- CVM. We'll go through the survey design, present the main WTP results, non-use values, cross-tabulations, and total economic value, and end with limitations, conclusions, and field visit proof.''
+\end{ansbox}
+
+\subsection{Slide 3: Why Sunder Nursery? \normalfont\small(45--60 sec)}
+\begin{ansbox}
+``Urban parks provide a lot of benefits --- recreation, clean air, beauty, heritage, biodiversity. But none of these have a market price. You can't buy `tranquility' or `bird habitat' in a shop. Because these benefits are invisible in the market, parks get undervalued. Our goal was to estimate what Sunder Nursery is actually worth to the people who use it and care about it.''
+
+``We chose CVM because it can capture both use and non-use values. We visited on Friday 10th April, from 4 PM to 7:30 PM, and surveyed 45 visitors face-to-face with a bilingual form.''
+\end{ansbox}
+
+\subsection{Slide 4: Site Background \normalfont\small(45--60 sec)}
+\begin{ansbox}
+``Sunder Nursery is a 90-acre heritage park in the Nizamuddin area, right next to Humayun's Tomb. It started as a Mughal-era nursery in the 16th century. After independence, it was neglected for decades. In 2007, the Aga Khan Trust for Culture started a massive restoration. After over 10 years of work, it reopened in February 2018.''
+
+``Today it has 6 restored Mughal monuments, over 300 tree species, 80+ bird species, wetlands, lotus ponds, and themed gardens. It satisfies the textbook criteria for CVM: uniqueness, irreversibility, and strong non-use values.''
+\end{ansbox}
+
+\subsection{Slide 5: How We Evaluated --- CVM \normalfont\small(60--75 sec)}
+\begin{ansbox}
+``Our method is CVM --- we directly asked visitors if they'd pay a higher fee for conservation. This is a stated-preference technique. The textbook says CVM is a `general technique to elicit willingness to pay in broad and inclusive sense --- use and non-use value.'
+
+``The key advantage is that CVM captures non-use values like bequest and existence value, which other methods like TCM cannot. And we follow the textbook's TEV framework: Total Value = Use Value + Non-Use Value, where non-use includes option, bequest, and existence values.''
+\end{ansbox}
+
+\subsection{Slide 6: Why CVM Over Other Methods? \normalfont\small(30--40 sec)}
+\begin{ansbox}
+``The main alternative is TCM --- observing what people spend to travel here. But TCM has two problems for us. First, the textbook explicitly says TCM `does not account for a recreational site's existence value.' Second, 53\% of our respondents were on multi-destination trips, so travel costs are shared. CVM is a better fit for a site with strong heritage and intergenerational significance.''
+\end{ansbox}
+
+\subsection{Slide 7: Survey Design \normalfont\small(45--60 sec)}
+\begin{ansbox}
+``We followed the textbook's two-phase approach. Phase 1 is scenario presentation --- we asked what aspects visitors value and how they rate the ecological condition. Phase 2 is valuation --- would you pay a higher entry fee? How much extra? If no, why not? Then bequest and existence value questions, and demographics.''
+
+``We used closed-ended bids of \rupee 10, 20, 50, 100 because the textbook says closed-ended choices give more accurate results. The payment vehicle is a higher entry fee --- realistic and neutral. Our design follows the Kalamazoo Nature Center case study from the textbook.''
+\end{ansbox}
+
+\subsection{Slide 8: QR Code / Survey Form \normalfont\small(10--15 sec)}
+\begin{ansbox}
+``This is the actual Google Form we used --- bilingual in Hindi and English. We administered it in-person on mobile phones. All 45 responses were collected on-site at Sunder Nursery.''
+\end{ansbox}
+
+\subsection{Slide 9: Demographics \normalfont\small(25--30 sec)}
+\begin{ansbox}
+``Our sample of 45 was dominated by 18--35 year olds at 44\% and students at 36\%, which makes sense for a Friday evening at a popular Delhi park. We also had a good mix of middle-aged visitors, senior citizens, and a few under-18s.''
+\end{ansbox}
+
+\subsection{Slide 10: What Visitors Value \normalfont\small(30--40 sec)}
+\begin{ansbox}
+``Scenic beauty was the top pick at 84\% --- almost everyone. Heritage monuments came second at 56\%, then plants and birds at 47\%, quietude at 40\%, and future generations at 33\%. People value the combined heritage-plus-ecology experience. A third chose `future generations' voluntarily --- a strong signal of bequest value.''
+\end{ansbox}
+
+\subsection{Slide 11: Ecological Condition \normalfont\small(20--25 sec)}
+\begin{ansbox}
+``87\% rated the park's condition as Good or Excellent. Nobody said Poor. This validates the Aga Khan Trust's decade-long restoration and supports the idea that conservation spending is delivering visible results.''
+\end{ansbox}
+
+\subsection{Slide 12: CVM Result 1 --- WTP \normalfont\small\textcolor{alertred}{[KEY SLIDE --- 75--90 sec]}}
+\begin{ansbox}
+``This is the heart of our analysis. 30 out of 45 visitors --- 66.7\% --- said they would pay a higher entry fee.''
+
+``Now, the WTP calculation. The current ticket is \rupee 50. Our survey asked for the maximum \textit{extra} amount. But by definition, WTP is the total amount a person is willing to pay. So for willing respondents, WTP = \rupee 50 + extra amount. Mean extra was \rupee 40, so mean total WTP = \rupee 90. Median total WTP = \rupee 70.''
+
+``For unwilling respondents, they are visiting and paying \rupee 50, so their WTP is at least \rupee 50.''
+
+``Overall mean WTP = (30 $\times$ 90 + 15 $\times$ 50) / 45 = \rupee 76.7 per visit.''
+
+\textbf{If asked for breakdown:} ``4 chose \rupee 10 extra, 13 chose \rupee 20, 8 chose \rupee 50, 5 chose \rupee 100. Total extra = 40+260+400+500 = \rupee 1200. Mean extra = 1200/30 = \rupee 40. Add \rupee 50 ticket = \rupee 90 total WTP.''
+\end{ansbox}
+
+\subsection{Slide 13: WTP Distribution \& Protest Bids \normalfont\small(45--60 sec)}
+\begin{ansbox}
+``\rupee 20 extra was the most popular bid (43\%), giving a total WTP of \rupee 70. Among the 15 who said No: 40\% said not worth it, 33\% said government should pay, 27\% can't afford. The 5 `government should pay' are protest bids --- they value the park but object to user fees. Excluding them, WTP goes from 66.7\% to 75\%.''
+\end{ansbox}
+
+\subsection{Slide 14: Non-Use Values \normalfont\small(35--45 sec)}
+\begin{ansbox}
+``69\% said preserving for future generations is very important --- that's bequest value. 82\% would support conservation even if they could never visit again --- that's existence value. These strong non-use signals confirm that CVM was the right choice --- TCM would have missed all of this.''
+\end{ansbox}
+
+\subsection{Slide 15: Cross-Tabulations \normalfont\small(35--45 sec)}
+\begin{ansbox}
+``WTP decreases with age: 100\% for under-18 down to 44\% for 60+. By income: students have the highest WTP at 81\% despite lowest income. The amounts are small enough that income isn't a real barrier --- environmental awareness and attachment to the park outweigh income effects.''
+\end{ansbox}
+
+\subsection{Slide 16: Total Economic Value \normalfont\small\textcolor{alertred}{[KEY SLIDE --- 50--70 sec]}}
+\begin{ansbox}
+``Here's how we bring it all together using the TEV framework. Overall mean WTP is \rupee 76.7 per visit. Multiply by 15 lakh annual visitors = \rupee 11.50 crore per year. The current ticket captures \rupee 7.50 crore. So the additional ecological value --- the value not captured by the market price --- is \rupee 4.00 crore per year.''
+
+``This \rupee 4.00 crore includes both use value beyond the ticket and non-use value --- bequest at 69\%, existence at 82\%. And our estimate is conservative: bids were capped at \rupee 100 extra, and we only surveyed on-site visitors.''
+\end{ansbox}
+
+\subsection{Slide 17: Discussion \& Limitations \normalfont\small(35--45 sec)}
+\begin{ansbox}
+``Our sample is 45 from one Friday evening. WTP is stated, not actually paid --- that's the hypothetical bias the textbook warns about. Strategic bias is possible --- some may overstate to look environmentally conscious. Information bias --- our brief survey can't fully convey conservation costs. A proper study would need 200+ respondents. But for a pilot study, our data shows clear, internally consistent patterns.''
+\end{ansbox}
+
+\subsection{Slide 18: Conclusion \normalfont\small(25--30 sec)}
+\begin{ansbox}
+``Two-thirds would pay more for conservation. Mean total WTP is \rupee 90 for willing, \rupee 76.7 overall. That gives an aggregate WTP of \rupee 11.50 crore, with \rupee 4 crore of ecological value above the ticket price. Non-use values are strong, and 87\% rate ecology as Good or Excellent. Sunder Nursery's true value is significantly higher than what the entry fee captures.''
+\end{ansbox}
+
+\subsection{Slide 19: References \normalfont\small(5 sec)}
+\begin{ansbox}
+``Our references are listed here --- standard CVM literature plus the course material.''
+\end{ansbox}
+
+\subsection{Slide 20: Field Visit Proof \normalfont\small(10--15 sec)}
+\begin{ansbox}
+``These photographs show us conducting surveys with visitors on-site at Sunder Nursery. Thank you. We're open for questions.''
+\end{ansbox}
+
+\newpage
+% ══════════════════════════════════════════════════════
+\part*{Part IV: Every Question the Prof Could Ask}
+\addcontentsline{toc}{part}{Part IV: Every Question the Prof Could Ask}
+% ══════════════════════════════════════════════════════
+
+\subsection{Basic Conceptual Questions}
+
+\textbf{Q: ``What is CVM in one line?''}
+\begin{ansbox}
+CVM is a survey-based technique where you create a hypothetical market and directly ask people their willingness to pay for a non-market environmental good.
+\end{ansbox}
+
+\textbf{Q: ``What is the difference between stated and revealed preference?''}
+\begin{ansbox}
+Stated preference (CVM) = you ASK people what they'd hypothetically pay. Revealed preference (TCM) = you OBSERVE what they actually spend. CVM can capture non-use values but may have hypothetical bias. TCM is based on real behaviour but misses non-use values. We used CVM because non-use values are central to Sunder Nursery's worth.
+\end{ansbox}
+
+\textbf{Q: ``What is TEV?''}
+\begin{ansbox}
+Total Economic Value = Use Value (direct enjoyment from visiting) + Non-Use Value (option + bequest + existence values). It captures the complete worth of an environmental resource to society. CVM is the only standard method that captures all these components.
+\end{ansbox}
+
+\textbf{Q: ``What are use and non-use values?''}
+\begin{ansbox}
+Use value is what you get from actually using the park. Non-use value is what you get from knowing the park exists and is preserved, independent of your own visits. It has three parts: option value (keeping the option to visit later), bequest value (preserving for future generations), and existence value (satisfaction from knowing it exists).
+\end{ansbox}
+
+\textbf{Q: ``What is consumer surplus?''}
+\begin{ansbox}
+The difference between what you'd be willing to pay for something and what you actually pay. In our context, if someone's total WTP is \rupee 90 but the ticket is \rupee 50, their consumer surplus is \rupee 40 --- this is the ecological value the market price misses.
+\end{ansbox}
+
+\textbf{Q: ``What is a payment vehicle?''}
+\begin{ansbox}
+The mechanism through which the hypothetical payment would be collected. We used a higher entry fee because visitors already pay one, so it feels realistic. Alternatives could be taxes or donations, but those feel more hypothetical.
+\end{ansbox}
+
+\textbf{Q: ``What is a protest bid?''}
+\begin{ansbox}
+When a CVM respondent says ``No, I won't pay'' not because they think the resource is worthless, but because they object to who should pay or how. Example: ``The government should pay, not visitors.'' The person values the park but protests the funding approach.
+\end{ansbox}
+
+% ──────────────────────────────────────────────────
+\subsection{Questions About Our Specific Study}
+
+\textbf{Q: ``Why CVM over TCM?''}
+\begin{ansbox}
+Two reasons. First, CVM can capture non-use values (bequest, existence) which TCM cannot --- the textbook explicitly states TCM ``does not account for a recreational site's existence value.'' Second, 53\% of our respondents were on multi-destination trips, which makes TCM unreliable since travel costs are shared. CVM is the right fit for a site with heritage and intergenerational significance.
+\end{ansbox}
+
+\textbf{Q: ``Why these specific bid amounts (\rupee 10, 20, 50, 100)?''}
+\begin{ansbox}
+The current entry fee is \rupee 50. Our bids range from a modest \rupee 10 extra to \rupee 100 extra (tripling the fee). This gives a realistic range. The textbook recommends closed-ended choices because people are unfamiliar with pricing environmental goods.
+\end{ansbox}
+
+\textbf{Q: ``How did you calculate WTP? Why include the \rupee 50 ticket?''}
+\begin{ansbox}
+WTP by definition is the total maximum amount a person is willing to pay. Our survey asked for the \textit{extra} amount above the \rupee 50 ticket. So total WTP = \rupee 50 + extra. For willing respondents: mean extra = \rupee 40, so mean total WTP = \rupee 90. For unwilling respondents: they are visiting and paying \rupee 50, so WTP $\geq$ \rupee 50. Overall mean = (30$\times$90 + 15$\times$50) / 45 = \rupee 76.7.
+\end{ansbox}
+
+\textbf{Q: ``Where did 15 lakh annual visitors come from?''}
+\begin{ansbox}
+This is the estimated annual footfall for Sunder Nursery based on publicly available data. At roughly 4,000--5,000 visitors per day, 15 lakh per year is a reasonable estimate for a popular urban park in Delhi.
+\end{ansbox}
+
+\textbf{Q: ``Why did students show higher WTP than high-income groups?''}
+\begin{ansbox}
+Three reasons: (1) The extra amounts are small (\rupee 10--20), so income isn't a real barrier. (2) Students tend to have stronger environmental awareness and idealism. (3) Many students are frequent visitors with emotional attachment. This pattern is consistent with CVM literature.
+\end{ansbox}
+
+\textbf{Q: ``What is the \rupee 4 crore number? What is the \rupee 11.50 crore?''}
+\begin{ansbox}
+\rupee 11.50 crore is the aggregate annual WTP: what all visitors collectively believe the park is worth (\rupee 76.7 $\times$ 15 lakh). \rupee 7.50 crore is already captured as ticket revenue (\rupee 50 $\times$ 15 lakh). The \rupee 4.00 crore gap is the ecological and heritage value that the market price fails to capture --- this is the key CVM finding.
+\end{ansbox}
+
+\textbf{Q: ``Why not use median WTP instead of mean?''}
+\begin{ansbox}
+The median total WTP among willing respondents is \rupee 70, versus the mean of \rupee 90. We report both. The overall mean WTP (\rupee 76.7) uses the mean for the aggregate calculation. Using median would give a lower but equally defensible estimate.
+\end{ansbox}
+
+\textbf{Q: ``What biases might affect your results?''}
+\begin{ansbox}
+Three main biases from the textbook: (1) \textbf{Hypothetical bias} --- no real money was exchanged, so WTP may be overstated. (2) \textbf{Strategic bias} --- people may understate to free-ride or overstate to look environmentally conscious. (3) \textbf{Information bias} --- limited explanation of conservation costs in a brief survey. Additionally, our sample is from a single Friday evening.
+\end{ansbox}
+
+\textbf{Q: ``Is 45 respondents enough?''}
+\begin{ansbox}
+For a classroom pilot study, yes --- enough to demonstrate the methodology and identify clear patterns. For actual policy, no --- you'd need 200+. The Lumpinee Park study used 187 respondents.
+\end{ansbox}
+
+\textbf{Q: ``What about Hedonic Pricing or Replacement Cost?''}
+\begin{ansbox}
+Hedonic Pricing: Not applicable. It works where environmental attributes affect property values (e.g., houses near a landfill). A park's visitor value isn't captured in nearby housing prices.
+
+Replacement Cost: Theoretically possible (what would it cost to recreate a 90-acre heritage park?) but gives an astronomical number and doesn't capture subjective value.
+\end{ansbox}
+
+\textbf{Q: ``What policy would you recommend?''}
+\begin{ansbox}
+(1) A modest fee increase of \rupee 20--50 is acceptable to most visitors and could fund conservation directly. (2) The ``government should pay'' sentiment (33\% of refusals) supports continued public funding alongside user fees. (3) Programs like bird walks and heritage tours could engage the high-WTP young demographic.
+\end{ansbox}
+
+% ──────────────────────────────────────────────────
+\subsection{Deep Conceptual Questions}
+
+\textbf{Q: ``How is CVM different from just asking `how much do you like this park?'''}
+\begin{ansbox}
+CVM doesn't just ask opinions --- it asks for a monetary commitment. It creates a realistic scenario: ``the park needs more funding; would you pay \rupee X more?'' This forces people to think about real trade-offs with their money, not just express vague preferences.
+\end{ansbox}
+
+\textbf{Q: ``The textbook mentions Lumpinee Park. How does our study compare?''}
+\begin{ansbox}
+Lumpinee Park is a public park in Bangkok with a nominal entry fee. Dixon and Hufschmidt (1986) surveyed 187 visitors from 17 districts using TCM. When existence value was accounted for, the capitalized value jumped from \$6.6 million to \$58 million --- a 9x increase. Our study is smaller (45 vs 187), but similarly shows that non-use values are substantial for urban parks.
+\end{ansbox}
+
+\textbf{Q: ``The Colorado Wilderness study --- how is it relevant?''}
+\begin{ansbox}
+Walsh et al.\ (1984) surveyed 218 Colorado households. Non-use (preservation) values represented 37\% of total value even at the lower end. Our CVM results similarly show that a large proportion of WTP is driven by non-use motives --- 69\% cite bequest and 82\% cite existence value as important.
+\end{ansbox}
+
+\textbf{Q: ``What is the Kalamazoo Nature Center and why is it relevant?''}
+\begin{ansbox}
+A CVM case study from the textbook. Their survey design is similar to ours: they asked what aspects visitors value, whether they'd pay more in taxes, how much, and probed bequest and existence values. Our questionnaire closely mirrors their approach, adapted for an Indian urban park.
+\end{ansbox}
+
+\textbf{Q: ``What is TCM? Why didn't you use it?''}
+\begin{ansbox}
+TCM (Travel Cost Method) infers the value of a site from the actual travel costs visitors incur. It's a ``revealed preference'' method based on real spending. We didn't use it as our primary method because: (1) the textbook says it cannot capture existence value, and (2) 53\% of our visitors had multi-destination trips, making cost allocation unreliable. We collected travel data as demographic information but did not build the valuation around it.
+\end{ansbox}
+
+\newpage
+% ══════════════════════════════════════════════════════
+\part*{Part V: Timing Guide}
+\addcontentsline{toc}{part}{Part V: Timing Guide}
+% ══════════════════════════════════════════════════════
+
+\begin{table}[h]
+\centering
+\begin{tabular}{clcc}
+\toprule
+\textbf{Slide} & \textbf{Topic} & \textbf{Time} & \textbf{Cumulative} \\
+\midrule
+1 & Title & 0:10 & 0:10 \\
+2 & Roadmap & 0:15 & 0:25 \\
+3 & Why Sunder Nursery & 0:50 & 1:15 \\
+4 & Site Background & 0:50 & 2:05 \\
+5 & How We Evaluated: CVM & 1:00 & 3:05 \\
+6 & Why CVM Over Others & 0:35 & 3:40 \\
+7 & Survey Design & 0:50 & 4:30 \\
+8 & QR / Survey Form & 0:10 & 4:40 \\
+9 & Demographics & 0:25 & 5:05 \\
+10 & Aspects Valued & 0:30 & 5:35 \\
+11 & Ecological Condition & 0:20 & 5:55 \\
+\rowcolor{lightgray} \textbf{12} & \textbf{CVM WTP (KEY)} & \textbf{1:20} & \textbf{7:15} \\
+13 & WTP Distribution \& Protest Bids & 0:50 & 8:05 \\
+14 & Non-Use Values & 0:35 & 8:40 \\
+15 & Cross-Tabulations & 0:35 & 9:15 \\
+\rowcolor{lightgray} \textbf{16} & \textbf{TEV from CVM (KEY)} & \textbf{0:55} & \textbf{10:10} \\
+17 & Discussion \& Limitations & 0:40 & 10:50 \\
+18 & Conclusion & 0:25 & 11:15 \\
+19 & References & 0:05 & 11:20 \\
+20 & Field Visit Proof & 0:10 & 11:30 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{warnbox}
+\textbf{Pro tip:} Slides 12 and 16 are where the prof will focus. Practice these the most. Know the WTP calculation cold --- especially why WTP = \rupee 50 + extra.
+\end{warnbox}
+
+\newpage
+% ══════════════════════════════════════════════════════
+\part*{Part VI: One-Page Cheat Sheet (Print and Carry)}
+\addcontentsline{toc}{part}{Part VI: One-Page Cheat Sheet}
+% ══════════════════════════════════════════════════════
+
+\begin{center}
+{\Large\bfseries\color{navy} SUNDER NURSERY VALUATION --- CHEAT SHEET}\\[6pt]
+{\color{accent}\rule{0.8\textwidth}{1pt}}
+\end{center}
+
+\begin{minipage}[t]{0.48\textwidth}
+\subsubsection*{\color{navy}Setup}
+\begin{itemize}[nosep, leftmargin=*]
+\item 90-acre heritage park, Nizamuddin, Delhi
+\item 10 Apr 2026, 4--7:30 PM, 45 surveyed
+\item Method: CVM (Contingent Valuation)
+\item Current ticket: \rupee 50
+\end{itemize}
+
+\subsubsection*{\color{navy}Key Definitions}
+\begin{itemize}[nosep, leftmargin=*]
+\item CVM = ask ``would you pay more?'' (stated preference)
+\item WTP = total amount willing to pay (ticket + extra)
+\item TEV = Use Value + Non-Use Value
+\end{itemize}
+
+\subsubsection*{\color{navy}WTP Calculation}
+\begin{itemize}[nosep, leftmargin=*]
+\item WTP Yes: 30/45 = 66.7\%
+\item Extra amounts: \rupee 10(4), \rupee 20(13), \rupee 50(8), \rupee 100(5)
+\item Total extra sum = \rupee 1200
+\item Mean extra (willing): 1200/30 = \rupee 40
+\item \textbf{Mean Total WTP (willing): 50+40 = \rupee 90}
+\item Median Total WTP (willing): 50+20 = \rupee 70
+\item Unwilling: WTP = \rupee 50 (they pay ticket)
+\item \textbf{Overall Mean: (30$\times$90 + 15$\times$50)/45 = \rupee 76.7}
+\item Protest bids: 5 $\rightarrow$ adjusted = 30/40 = 75\%
+\end{itemize}
+
+\subsubsection*{\color{navy}Non-Use Values}
+\begin{itemize}[nosep, leftmargin=*]
+\item Bequest ``very important'': 31/45 = 68.9\%
+\item Existence ``yes'': 37/45 = 82.2\%
+\end{itemize}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\subsubsection*{\color{navy}Final Answer (TEV from CVM)}
+\begin{itemize}[nosep, leftmargin=*]
+\item[] \textbf{Aggregate WTP = 76.7 $\times$ 15 lakh = \rupee 11.50 cr/yr}
+\item[] Ticket revenue = 50 $\times$ 15 lakh = \rupee 7.50 cr/yr
+\item[] \textbf{Ecological value gap = \rupee 4.00 cr/yr}
+\end{itemize}
+
+\subsubsection*{\color{navy}Why CVM and not TCM}
+\begin{itemize}[nosep, leftmargin=*]
+\item Textbook: TCM ``does not account for existence value''
+\item 53\% had multi-destination trips
+\item CVM captures use + non-use values
+\end{itemize}
+
+\subsubsection*{\color{navy}Other Key Numbers}
+\begin{itemize}[nosep, leftmargin=*]
+\item Ecology Good+Excellent: 86.7\%
+\item Scenic beauty: 84.4\%
+\item Students WTP: 81\% (highest despite lowest income)
+\item Under 18 WTP: 100\% $|$ 60+ WTP: 44\%
+\end{itemize}
+
+\subsubsection*{\color{navy}Textbook Comparisons}
+\begin{itemize}[nosep, leftmargin=*]
+\item Lumpinee Park: existence value $\rightarrow$ 9x multiplier
+\item Colorado: non-use = 37\% of total value
+\item Kalamazoo: similar CVM survey design to ours
+\end{itemize}
+
+\subsubsection*{\color{navy}Protest Bid Breakdown (15 No)}
+\begin{itemize}[nosep, leftmargin=*]
+\item Not worth it: 6 (40\%)
+\item Govt should pay: 5 (33\%) $\leftarrow$ protest bids
+\item Can't afford: 4 (27\%)
+\end{itemize}
+
+\subsubsection*{\color{navy}CVM Biases (from textbook)}
+\begin{itemize}[nosep, leftmargin=*]
+\item Hypothetical bias, Strategic bias, Information bias
+\end{itemize}
+\end{minipage}
+
+\end{document}
